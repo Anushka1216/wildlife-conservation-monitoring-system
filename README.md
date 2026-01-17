@@ -28,39 +28,37 @@ Conservation teams need a centralized system to track wildlife activity, monitor
 - Built map-based UI dashboard for real-time monitoring
 - Created analytics dashboards for decision making
 
-## 📸 Project Screenshots
-![Map View](./screenshots/map.png)
-![Marker Popup](./screenshots/marker-popup.png)
+## 📸 Screenshots
 
-![Object List](./screenshots/object-list.png)
+![Map View](./screenshots/map.png.png)
+![Marker Popup](./screenshots/marker-popup.png.png)
 
-![Animals Fields 1](./screenshots/animals-fields-1.png)
-![Animals Fields 2](./screenshots/animals-fields-2.png)
+![Animals Fields](./screenshots/animals-fields.png.png)
+![Species Fields](./screenshots/species-fields.png.png)
 
-![Species Fields](./screenshots/species-fields.png)
-![Rangers Fields](./screenshots/rangers-fields.png)
+![Forest Ranger Fields](./screenshots/Forest-Ranger-fields.png.png)
 
-![Sightings Fields 1](./screenshots/sightings-fields-1.png)
-![Sightings Fields 2](./screenshots/sightings-fields-2.png)
+![Sightings Fields 1](./screenshots/sighting-fields-1.png.png)
+![Sightings Fields 2](./screenshots/sighting-fields-2.png.png)
 
-![Collar Events Fields](./screenshots/collar-events-fields.png)
+![Collar Events Fields](./screenshots/collar-events-fields.png.png)
 
-![Formula Field](./screenshots/formula-field.png)
+![Migration Risk Formula](./screenshots/migration-risk-formula.png.png)
 
-![Flow](./screenshots/flow.png)
-![Flow Decision](./screenshots/flow-decision.png)
-![Flow Email Alert](./screenshots/flow-email-alert.png)
+![Flow Decision 1](./screenshots/flow-decision-1.png.png)
+![Flow Decision 2](./screenshots/flow-decision-2.png.png)
+![Flow Email Alert](./screenshots/flow-email-alert.png.png)
 
-![Trigger](./screenshots/trigger.png)
+![Trigger](./screenshots/animal-trigger.png.png)
 
-![Apex Location Handler](./screenshots/apex-location-handler.png)
-![Apex Haversine Utility](./screenshots/apex-haversine.png)
+![Apex Location Handler](./screenshots/apex-location-handler.png.png)
+![Apex Haversine](./screenshots/apex-haversine.png.png)
 
-![Reports 1](./screenshots/reports-1.png)
-![Reports 2](./screenshots/reports-2.png)
+![Reports 1](./screenshots/reports-1.png.png)
+![Reports 2](./screenshots/reports-2.png.png)
 
-![Dashboard 1](./screenshots/dashboard-1.png)
-![Dashboard 2](./screenshots/dashboard-2.png)
+![Dashboard](./screenshots/dashboard.png.png)
+
 
 ## 🚀 What I Learned
 - Building real-world monitoring systems with maps + automation
